@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print the size of various typesa based 
+ * main - print the size of various typesa based
  * on the computer it is compiled and run on..
  * Return: Always 0.
  */
