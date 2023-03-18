@@ -14,7 +14,7 @@ int main(void)
 
 {
 char low;
-[00:01, 19/03/2023] Simon Son: for (low = 'a'; low <= '2'; low++)
+for (low = 'a'; low <= '2'; low++)
 putchar(low);
 
 for (low = 'A'; low <= 'Z'; low++)
