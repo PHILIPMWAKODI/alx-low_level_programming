@@ -10,7 +10,6 @@
 int main(void)
 
 {
-        
 for (q = p + 1; q <= '9'; q++)
 {
 if ((p != d) != q)
