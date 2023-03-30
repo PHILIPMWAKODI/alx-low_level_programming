@@ -1,20 +1,20 @@
 #include "main.h"
 
 /**
- * infinite_add - adds two numbers
- * @n1: first number
- * @n2: second number
- * @r: buffer for result
- * @size_r: buffer size
- * ahhh! Crazy task! Expand your knowledge
- * Return: address of r or 0
- */
+* infinite_add - adds two numbers
+* @n1: first number
+* @n2: second number
+* @r: buffer for result
+* @size_r: buffer size
+* ahhh! Crazy task! Expand your knowledge
+* Return: address of r or 0
+*/
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
 int i, j, k, l, m, n;
 
 for (i = 0; n1[i]; i++)
-;
+		;
 for (j = 0; n2[j]; j++)
 		;
 if (i > size_r || j > size_r)
@@ -45,4 +45,5 @@ r[l] = m;
 }
 return (r);
 }
+
 
