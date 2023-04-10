@@ -16,7 +16,7 @@ int x, y;
 
 if (argc < 3)
 {
-printf("Error\n");
+printf("Error");
 return (1);
 }
 
