@@ -28,4 +28,3 @@ printf("%d\n", x * y);
 
 return (0);
 }
-
