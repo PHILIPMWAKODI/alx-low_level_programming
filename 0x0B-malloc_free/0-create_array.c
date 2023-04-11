@@ -43,4 +43,4 @@ str[i] = c;
 return (str);
 		
 }
-
+:%s/\s\+$//e
