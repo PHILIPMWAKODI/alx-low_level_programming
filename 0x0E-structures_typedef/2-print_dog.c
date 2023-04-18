@@ -14,7 +14,6 @@ return;
 
 
 if (d->name == NULL)
-->name = "(nil)";
 if (d->owner == NULL)
 d->owner = "(nil)";
 
